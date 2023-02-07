@@ -26,8 +26,8 @@ https://user-images.githubusercontent.com/67371847/217300445-bb60c39d-c43c-402a-
 
 ### Links
 
-- Solution URL:  https://github.com/aleksandre1303/Dev-Portf-Responsive
-- Live Site URL: https://aleksandre1303.github.io/Dev-Portf-Responsive/
+- Solution URL:  
+- Live Site URL: https://aleksandre1303.github.io/Four-Card-Responsive/
 
 
 ## Author
