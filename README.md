@@ -26,7 +26,7 @@ https://user-images.githubusercontent.com/67371847/217300445-bb60c39d-c43c-402a-
 
 ### Links
 
-- Solution URL:  
+- Solution URL:  https://github.com/aleksandre1303/Four-Card-Responsive  
 - Live Site URL: https://aleksandre1303.github.io/Four-Card-Responsive/
 
 
@@ -41,15 +41,13 @@ https://user-images.githubusercontent.com/67371847/217300445-bb60c39d-c43c-402a-
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Flexbox Layout
 - Media query
 
 
 ### What I learned
 
-My next project, I learned better how to make the page responsive with flexbox
-and also How should I store colors and fonts in a variable
-And most importantly, I became more attentive to details when making a responsive page 🚀🚀✊
+My next project, I understood well how Flexbox works for responsive design 🚀🚀✊
 
 
 ## Author
